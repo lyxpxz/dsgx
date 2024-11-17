@@ -22,12 +22,12 @@ CCTV兵器科技
 4K频道,#genre#
 CCTV-16 4K
 CCTV-4K
+CCTV4K
 CCTV-8K
+CCTV8K
 BRTV纪实科教 8K
 纪实科教8K
-南国都市4K
 BesTV 4K儿童
-BesTV 4K电影
 BesTV 4K纪实
 纯享4K
 华数4K
@@ -35,9 +35,7 @@ BesTV 4K纪实
 欢笑剧场4K
 爱上4K
 爱自然4K
-时尚4K
 love nature 4k
-fashion 4k
 
 
 港·澳·台,#genre#
