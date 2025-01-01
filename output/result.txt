@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-01 18:24:56,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
+2025-01-02 06:16:12,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
 安徽频道,#genre#
 
 央视频道,#genre#
@@ -10,7 +10,7 @@ CCTV高尔夫网球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000094/ind
 CCTV高尔夫网球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?$订阅源-IPv6
 CCTV高尔夫网球,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000094$订阅源-IPv6
 CCTV高尔夫网球,http://[2409:8087:74d1:22::4]:6410/270000001128/9900000094/index.m3u8?channel-id=newtv&Ace$订阅源-IPv6
-CCTV风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$订阅源
+CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$订阅源
 
 4K频道,#genre#
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8$订阅源-IPv6
@@ -30,27 +30,25 @@ CCTV风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$订阅源
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8$订阅源
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8$订阅源
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u$订阅源
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8$订阅源
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8$订阅源
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8$订阅源
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$订阅源
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$订阅源
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top$订阅源
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$订阅源
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$订阅源
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$订阅源
+台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$订阅源
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$订阅源
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
