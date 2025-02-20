@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-20 06:16:10,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
+2025-02-20 18:25:09,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
 安徽频道,#genre#
 
 央视频道,#genre#
@@ -89,11 +89,17 @@ CCTV兵器科技,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$订阅源-IPv6
 凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8$订阅源
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8$订阅源
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
