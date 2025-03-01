@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-01 18:22:29,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
+2025-03-02 06:13:33,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
 安徽频道,#genre#
 
 央视频道,#genre#
@@ -93,10 +93,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
 TVB翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$订阅源
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8$订阅源
