@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-03 06:15:09,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
+2025-03-03 18:25:33,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
 安徽频道,#genre#
 
 央视频道,#genre#
@@ -47,6 +47,7 @@ CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV
 CCTV风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8$订阅源-IPv6
 CCTV风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8$订阅源-IPv6
 CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8$订阅源-IPv6
+CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$订阅源
 CCTV电视指南,http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\$订阅源-IPv6
 CCTV电视指南,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\$订阅源-IPv6
 CCTV电视指南,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$订阅源-IPv6
