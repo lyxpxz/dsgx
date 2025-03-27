@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-27 18:25:30,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
+2025-03-28 06:15:23,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
 安徽频道,#genre#
 
 央视频道,#genre#
@@ -11,6 +11,7 @@ CCTV世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88
 CCTV世界地理,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8$订阅源-IPv6
 CCTV世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$订阅源-IPv6
 CCTV世界地理,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$订阅源-IPv6
+CCTV世界地理,http://58.243.224.244:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV文化精品,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8$订阅源-IPv6
 CCTV文化精品,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$订阅源-IPv6
 CCTV央视台球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8$订阅源-IPv6
@@ -90,11 +91,5 @@ CCTV兵器科技,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA$订阅源
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8$订阅源
-三立台湾,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4$订阅源
 东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
