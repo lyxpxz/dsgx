@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-27 06:15:02,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
+2025-03-27 18:25:30,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$订阅源-IPv6
 安徽频道,#genre#
 
 央视频道,#genre#
@@ -18,8 +18,8 @@ CCTV央视台球,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV
 CCTV央视台球,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$订阅源-IPv6
 CCTV央视台球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$订阅源-IPv6
 CCTV央视台球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$订阅源-IPv6
-CCTV央视台球,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 CCTV央视台球,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
+CCTV央视台球,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2$订阅源-IPv6
 CCTV风云音乐,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$订阅源-IPv6
 CCTV风云音乐,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$订阅源-IPv6
@@ -49,7 +49,6 @@ CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV
 CCTV风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8$订阅源-IPv6
 CCTV风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8$订阅源-IPv6
 CCTV风云足球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8$订阅源-IPv6
-CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$订阅源
 CCTV电视指南,http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\$订阅源-IPv6
 CCTV电视指南,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\$订阅源-IPv6
 CCTV电视指南,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8$订阅源-IPv6
@@ -95,6 +94,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8$订阅源
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8$订阅源
+三立台湾,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4$订阅源
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$订阅源
