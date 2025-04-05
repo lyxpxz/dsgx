@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-05 06:15:04,http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8$订阅源
+2025-04-05 18:23:38,http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8$订阅源
 安徽频道,#genre#
 安徽综艺体育,http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8$订阅源
 安徽影视频道,http://43.129.81.169/live.ahsx.ahtv.cn/live/ystv.m3u8$订阅源
@@ -22,8 +22,8 @@ CCTV央视台球,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV
 CCTV央视台球,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$订阅源-IPv6
 CCTV央视台球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$订阅源-IPv6
 CCTV央视台球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8$订阅源-IPv6
-CCTV央视台球,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 CCTV央视台球,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
+CCTV央视台球,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$订阅源
 CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2$订阅源-IPv6
 CCTV风云音乐,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$订阅源-IPv6
 CCTV风云音乐,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$订阅源-IPv6
